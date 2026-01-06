@@ -17,8 +17,6 @@ Outside of coding, I wear many hats - I'm a proud mom, devoted wife, avid footba
 
 Let's connect and collaborate on making the web a better place for everyone! ⭐
 
-![Talida's GitHub stats](https://github-readme-stats.vercel.app/api?username=talidag&show_icons=true&theme=ayu-mirage) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talidag&hide=html,css&theme=ayu-mirage)
-
 ## Languages and Tools:
 ![](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS3)
